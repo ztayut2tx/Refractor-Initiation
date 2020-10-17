@@ -1,7 +1,2 @@
 # Refractor-Initiation
-Homework Week 1 Coder Refractor
-Corrected "search optimization" link.
-Moved link css to proper location in css flow.
-corrected html symantax in the html
-added alt attribute to images
-added title to website
+I addressed this as a live ticket i found there was no code syntax in the html, i went through and added <header> <article><section><footer> tags to make it look cleaner.  Added alt attributes to all images.  Fixed syntax of CSS.  Fixed search optimization link.
